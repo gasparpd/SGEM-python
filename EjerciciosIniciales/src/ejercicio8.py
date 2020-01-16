@@ -1,9 +1,13 @@
-#Ejercicio 9
-d={}
-d["clave1"] = "valor1"
-d["clave2"] = "valor2"
+print("Introduce la longitud de la lista.")
+lonlista = int(input())
+lista = []
 
-print(d["clave1"])
+for i in range(0, lonlista):
+    print("Introduce el elemento a la lista.")
+    elem = input()
+    lista.append(elem)
+print("Se ha llenado la lista.")
 
-for clave in d.keys():
-    print("{}:{}".format(clave, d[clave]))
+for i in range(1, lonlista + 1):
+    print(lista[-i])
+print("Lista impresa.")
