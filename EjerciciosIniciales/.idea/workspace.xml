@@ -42,7 +42,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ej4">
+  <component name="RunManager" selected="Python.ej5">
     <configuration name="ej1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EjerciciosIniciales" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -127,7 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ejercicio1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ej5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EjerciciosIniciales" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,11 +135,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practica" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ejercicio1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practica/ej5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ej5" />
         <item itemvalue="Python.ej4" />
         <item itemvalue="Python.ej3" />
         <item itemvalue="Python.ej2" />
         <item itemvalue="Python.ej1" />
-        <item itemvalue="Python.ejercicio1" />
       </list>
     </recent_temporary>
   </component>
@@ -188,12 +188,20 @@
       <option name="project" value="LOCAL" />
       <updated>1586431121134</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Ej2, 3 y 4">
+      <created>1586432290826</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586432290826</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ej1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ej1" />
+    <MESSAGE value="Ej2, 3 y 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ej2, 3 y 4" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -214,10 +222,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="679" y="135" key="#ejercicio1/0.0.1920.1040@0.0.1920.1040" timestamp="1586087176031" />
-    <state x="491" y="14" key="CommitChangelistDialog2" timestamp="1586431120395">
+    <state x="491" y="14" key="CommitChangelistDialog2" timestamp="1586433700928">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="491" y="14" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1586431120395" />
+    <state x="491" y="14" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1586433700928" />
     <state x="614" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586087579321" />
     <state x="592" y="219" key="FileChooserDialogImpl" timestamp="1586351286635">
       <screen x="0" y="0" width="1536" height="824" />
@@ -225,29 +233,29 @@
     <state x="493" y="261" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1579273160426" />
     <state x="592" y="219" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586351286635" />
     <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1579599249923" />
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1586432254683">
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1586433741240">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1259" height="263" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1579030976051" />
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586432254683" />
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586433741240" />
     <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586087528015" />
-    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1586432254682">
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1586433741238">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1259" height="263" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1579030976051" />
-    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586432254682" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586433741238" />
     <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586087528015" />
-    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1586432254682">
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1586433741237">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1259" height="263" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1579030976051" />
-    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586432254682" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586433741237" />
     <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586087528015" />
-    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1586432254683">
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1586433741240">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1259" height="263" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1579030976051" />
-    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586432254683" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586433741240" />
     <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586087528015" />
     <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1579218820105">
       <screen x="0" y="0" width="1920" height="1040" />
